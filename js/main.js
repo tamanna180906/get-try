@@ -3,3 +3,9 @@ function d(){
     
 }
 d()
+
+function hi(){
+    console.log("jk");
+    
+}
+hi()
